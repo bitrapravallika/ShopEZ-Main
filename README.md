@@ -104,16 +104,15 @@ React.js	Frontend
 Redux Toolkit	State Management
 Node.js	Backend
 Express.js	Server
-MongoDB	Database
+MongoDB	
 CSS	Styling
 📄 Project Report
-
-👉 https://drive.google.com/drive/folders/148RewqJG70xE5wx-hABPls5KhzOF4QEp?usp=sharing
+[
+👉 http//drive.google.com/drive/folders/1-ddhqS0lPmihN1hVaAYcd0Aa0T63Ow0R?usp=drive_link
 
 🎥 Demo Video
 
 👉 https://drive.google.com/file/d/1DTuQjBZ-Mdas54ma5d4k4lmoVjqcCwB-/view?usp=drive_link
-
 🔗 GitHub Repository
 
 👉 https://github.com/bitrapravallika/ShopEZ-Main
